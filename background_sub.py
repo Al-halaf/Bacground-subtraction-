@@ -44,6 +44,7 @@ while cap.isOpened():
     if ret:
         frames.append(frame)
         #frames.append(cv2.resize(frame, (int(frame.shape[0] * scale), int(frame.shape[1] * scale))))
+        # The above line of code is useful if the video you are using this algrithm on is large 
 
     else:
         break
