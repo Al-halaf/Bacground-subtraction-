@@ -46,4 +46,4 @@ The project processes an input video (`Video_008.avi`), reconstructs the backgro
 
 Feel free to explore and adapt this code for your video analysis and processing needs!
 
-More information about the algrithm can be found on https://doi.org/10.1007/s10851-022-01068-0
+More information about the algrithm is avaiable here: https://doi.org/10.1007/s10851-022-01068-0
